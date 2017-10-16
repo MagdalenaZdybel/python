@@ -1,0 +1,1 @@
+print('mój wiek: jest jaki jest');
