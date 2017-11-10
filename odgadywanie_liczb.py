@@ -17,5 +17,5 @@ while strzal != tajemnica and proba < 6:
 if strzal == tajemnica:
     print("Hurraaaaa! Trafiony!")
 else:
-    print("Nie udało się. WKołczan świeci pustką bo wszystkie strzały wykorzystałeś!")
-    print("Tajemną no liczbą był", tajemnica)
+    print("Nie udało się. Kołczan świeci pustką bo wszystkie strzały wykorzystałeś!")
+    print("Tajemną liczbą to", tajemnica)
