@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b04849d-6c40-41ce-be25-175d74675397" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exe1_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask_zad_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flask_zad_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/konstruktr_5_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mojprint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projekt_flask.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roz11_petle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roz11_petle_zmienne.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roz11_petle_zmienne_zagniezdzoe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spotkanie28_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spotkanie5Python.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/bitmask.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/camera.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/fastevents.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/ffmovie.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/font.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/mask.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/mixer.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/pgarrinter.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/pgcompat.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/pgopengl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/pygame.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/pygamedocs.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/scrap.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Include/pygame/surface.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame-1.9.1-py2.7.egg-info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/LGPL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/SDL.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/SDL_image.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/SDL_mixer.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/SDL_ttf.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_arraysurfarray.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_camera.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_camera_opencv_highgui.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_camera_vidcapture.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_numericsndarray.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_numericsurfarray.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_numpysndarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/_numpysurfarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/base.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/bufferproxy.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/camera.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/cdrom.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/color.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/colordict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/constants.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/cursors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/display.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/__main__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/logos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/pygame_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/pygame_powered.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/pygame_small.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/pygame_tiny.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/camera.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/cdrom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/cursors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/display.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/draw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/font.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/gfxdraw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/joystick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/key.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/locals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/mask.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/midi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/mixer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/mouse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/movie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/music.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/overlay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/pixelarray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/pygame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/pygame_cursor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/rect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/scrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/sndarray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/sprite.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/surface.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/surfarray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/tests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/time.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/ref/transform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/DisplayModes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/ImportInit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/MoveIt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/SpriteIntro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/chimp/ChimpLineByLine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/chimp/chimp.py.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/chimp/chimpshot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/intro/ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/intro/blade.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/intro/freedom.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/intro/intro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/newbieguide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/SurfarrayIntro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/allblack.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/flipped.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/imgarray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/redimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/scaledown.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/scaleup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/soften.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/striped.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/surfarray/xfade.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/MakeGames.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/basic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/event-flowchart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/formulae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/games2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/games3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/games4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/games5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/games6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/docs/tut/tom/radians.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/draw.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/event.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/aacircle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/aliens.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/arraydemo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/blend_fill.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/blit_blends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/camera.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/chimp.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/cursors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/alien3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/arraydemo.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/asprite.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/background.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/blue.mpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/bomb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/boom.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/car_door.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/chimp.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/danger.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/explosion1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/fist.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/house_lo.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/house_lo.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/house_lo.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/liquid.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/midikeys.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/oldplayer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/player1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/punch.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/secosmic_lo.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/shot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/static.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/whiff.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/data/yuv_1.pgm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/eventlist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/fastevents.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/fonty.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/glcube.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/headless_no_windows_needed.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/liquid.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/JavaCompiling.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/_MainMenu_EOArchive_English.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/classes.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/info.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/keyedobjects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/aliens.icns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/aliens.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/aliens_app_example/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/macosx/macfont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/mask.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/midi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/moveit.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/movieplayer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/oldalien.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/overlay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/pixelarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/scaletest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/scrap_clipboard.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/scroll.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/sound.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/sound_array_demos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/stars.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/testsprite.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/examples/vgrade.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/fastevent.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/font.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/freesansbold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/gfxdraw.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/gp2x/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/gp2x/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/gp2x/locals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/image.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/imageext.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/install.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/joystick.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/jpeg.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/key.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/libfreetype-6.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/libogg-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/libpng12-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/libtiff.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/libvorbis-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/libvorbisfile-3.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/locals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/mac_scrap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/macosx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/mask.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/midi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/mixer.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/mixer_music.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/mouse.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/movie.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/overlay.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pixelarray.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pkgdata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/portmidi.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pygame.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pygame_icon.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pygame_icon.icns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pygame_icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pygame_icon.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/pypm.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/readme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/rect.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/rwobject.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/scrap.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/smpeg.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/sndarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/sprite.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/surface.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/surfarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/surflock.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/sysfont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/__main__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/base_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/blit_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/bufferproxy_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/cdrom_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/cdrom_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/color_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/cursors_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/display_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/draw_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/event_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/fastevent_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing.xbm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing_mask.xbm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/font_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/gfxdraw_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/image__save_gl_surface_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/image_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/joystick_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/key_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/mask_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/midi_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/mixer_music_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/mixer_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/mouse_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/movie_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/movie_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/overlay_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/pixelarray_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/rect_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/everything/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/exclude/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/failures1/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/run_tests__test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/timeout/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/scrap_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/scrap_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/sndarray_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/sndarray_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/sprite_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/surface_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/surfarray_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/surfarray_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/surflock_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/sysfont_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_test_.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_utils/async_sub.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_utils/run_tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_utils/test_runner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_utils/unittest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/test_utils/unittest_patch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/threads_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/threads_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/time_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/tests/transform_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/threads/Py25Queue.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/threads/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/time.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/transform.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/pygame/zlib1.dll" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pylove_styczen_spotkanie_1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b04849d-6c40-41ce-be25-175d74675397" name="Default" comment="" />
+      <created>1514388415259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514388415259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

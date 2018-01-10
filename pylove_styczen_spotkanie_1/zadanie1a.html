@@ -1,0 +1,40 @@
+<!-- coding=utf-8
+#Napisz aplikację, która po wejściu na adres "/konto" wyświetli stan konta użytkownika i listę ostatnich przelewów.
+#Początkowy stan konta ustaw np. na 1000 zł.
+#Na stronie powinien znajdować się formularz, umożliwiający wykonanie przelewu - powinien zawierać dwa pola tekstowe:
+#* nr konta docelowego,
+#* kwotę przelewu.
+#Po przesłaniu formularza kwota na koncie powinna zostać zmniejszona o podaną wartość, ponadto nowy przelew powinien pojawić się na liście ostatnich przelewów.
+#Upewnij się, że odświeżenie strony po wykonaniu przelewu nie spowoduje wykonania tego przelewu jeszcze raz. -->
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Konto</title>
+</head>
+<body>
+    <h1>Twoje konto</h1>
+        <h2>Stan konta: </h2>
+        <p>{{stan_kasiory}}</p>
+
+<br><br>
+    <h2>Dane do przelewu:</h2>
+    <form method='post'>
+        <input type="text" name="nr_konta" placeholder="Wpisz numer konta do przelewu"><br><br>
+        <input type="text" name="Kwota_przelewu" placeholder="Wpisz kwotę"><br><br>
+        <button type="submit">Wyślij przelew</button>
+    </form>
+
+    <% if przelewy %}
+    <h3>Stan Twojego konta po transakcji</h3>
+        <ul>
+            {% for przelew in przelewy %}
+            <li>Konto: {{przelew.konto}} : kwota : {{przelew.kwota}}</li>
+
+            {%endfor%}}
+
+        </ul>
+    {% endif %}
+
+</body>
+</html>
